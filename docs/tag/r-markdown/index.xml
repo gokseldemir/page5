@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R Markdown | Home</title>
-    <link>/page5/tag/r-markdown/</link>
-      <atom:link href="/page5/tag/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+    <link>/page/tag/r-markdown/</link>
+      <atom:link href="/page/tag/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>R Markdown</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jul 2020 21:13:14 -0500</lastBuildDate>
     <image>
-      <url>/page5/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/page/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>R Markdown</title>
-      <link>/page5/tag/r-markdown/</link>
+      <link>/page/tag/r-markdown/</link>
     </image>
     
     <item>
       <title>About This Blog</title>
-      <link>/page5/post/2015-07-23-r-rmarkdown/</link>
+      <link>/page/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2020 21:13:14 -0500</pubDate>
-      <guid>/page5/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/page/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Home</title>
-    <link>/page5/post/</link>
-      <atom:link href="/page5/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>/page/post/</link>
+      <atom:link href="/page/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jul 2020 21:13:14 -0500</lastBuildDate>
     <image>
-      <url>/page5/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/page/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>/page5/post/</link>
+      <link>/page/post/</link>
     </image>
     
     <item>
       <title>About This Blog</title>
-      <link>/page5/post/2015-07-23-r-rmarkdown/</link>
+      <link>/page/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2020 21:13:14 -0500</pubDate>
-      <guid>/page5/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/page/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 
@@ -34,9 +34,9 @@
     
     <item>
       <title>Criminology blogs that inspired me</title>
-      <link>/page5/post/criminology-blogs/</link>
+      <link>/page/post/criminology-blogs/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/page5/post/criminology-blogs/</guid>
+      <guid>/page/post/criminology-blogs/</guid>
       <description>&lt;p&gt;As one make way through graduate school and the field, there is so much to explore. Classes, conferences, seminars, supervisors tend to be  great sources but it is usually useful to go beyond them to get most out of it such as twitter, networking (and not being annoyed the word networking), extra curricular activities, hosting events, running a project etc. For me, criminology blogs functioned this purpose. Here is a neither comprehensive nor exhaustive list of these blogs that inspired me and provided most insight into academia;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://rekadata.net/&#34;&gt;https://rekadata.net/&lt;/a&gt; by Dr. Reka Solymosi Lecturer in Quantitative Methods at the Department of Criminology at University of Manchester
 &lt;a href=&#34;https://andrewpwheeler.com/&#34;&gt;https://andrewpwheeler.com/&lt;/a&gt; by Dr. Andrew P. Wheeler former Assistant Professor of Criminal Justice at University of Texas at Dallas

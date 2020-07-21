@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Goksel Demir | Home</title>
-    <link>/page5/author/goksel-demir/</link>
-      <atom:link href="/page5/author/goksel-demir/index.xml" rel="self" type="application/rss+xml" />
+    <link>/page/author/goksel-demir/</link>
+      <atom:link href="/page/author/goksel-demir/index.xml" rel="self" type="application/rss+xml" />
     <description>Goksel Demir</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/page5/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/page/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Goksel Demir</title>
-      <link>/page5/author/goksel-demir/</link>
+      <link>/page/author/goksel-demir/</link>
     </image>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>/page5/publication/preprint/</link>
+      <link>/page/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/page5/publication/preprint/</guid>
+      <guid>/page/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
@@ -29,9 +29,9 @@
     
     <item>
       <title>An example journal article</title>
-      <link>/page5/publication/journal-article/</link>
+      <link>/page/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/page5/publication/journal-article/</guid>
+      <guid>/page/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -49,9 +49,9 @@
     
     <item>
       <title>An example conference paper</title>
-      <link>/page5/publication/conference-paper/</link>
+      <link>/page/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/page5/publication/conference-paper/</guid>
+      <guid>/page/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
