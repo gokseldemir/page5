@@ -10,7 +10,7 @@ title = "Home"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://gokseldemir.github.io/page5/"
+baseurl = "https://github.com/gokseldemir/page5.git"
 publishDir = "docs"
 
 # Enter a copyright notice to display in the site footer.
