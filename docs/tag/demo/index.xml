@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | Home</title>
-    <link>/gokseldemir/page5.git/tag/demo/</link>
-      <atom:link href="/gokseldemir/page5.git/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>/page5/tag/demo/</link>
+      <atom:link href="/page5/tag/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/gokseldemir/page5.git/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/page5/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Demo</title>
-      <link>/gokseldemir/page5.git/tag/demo/</link>
+      <link>/page5/tag/demo/</link>
     </image>
     
     <item>
       <title>External Project</title>
-      <link>/gokseldemir/page5.git/project/external-project/</link>
+      <link>/page5/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/gokseldemir/page5.git/project/external-project/</guid>
+      <guid>/page5/project/external-project/</guid>
       <description></description>
     </item>
     
