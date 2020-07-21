@@ -5,7 +5,7 @@ name = "Coffee"
 light = true
 
 # Primary
-primary = "#795548"
+primary = "#753923"
 
 # Menu
 menu_primary = "#795548"

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogdown | Home</title>
+    <link>/page5/tag/blogdown/</link>
+      <atom:link href="/page5/tag/blogdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>blogdown</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jul 2020 21:13:14 -0500</lastBuildDate>
+    <image>
+      <url>/page5/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>blogdown</title>
+      <link>/page5/tag/blogdown/</link>
+    </image>
+    
+    <item>
+      <title>About This Blog</title>
+      <link>/page5/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2020 21:13:14 -0500</pubDate>
+      <guid>/page5/post/2015-07-23-r-rmarkdown/</guid>
+      <description>
+
+
+&lt;p&gt;Hello world!&lt;/p&gt;
+&lt;p&gt;Recently, I heard about Hugo and blogdown package which enables its users to create a website with R Markdown for free (and ad free as well). While I didn’t have any plan neither for blogging nor for having a personal website in near future, I was intrigued by the idea of building a website using R language. I also figured it would be nice and convenient to have everything related to work (e.g. docs, social networking accounts, experiences, blog) in one place in an organized fashion. So, I decided to give it a try in a rainy summer day, which perhaps isn’t a very helpful hint for Vancouverites as to which day it is. Well, it took longer than expected (as usual!), but I was able to publish this site in a relatively short amount of time. I believe it will be shorter for others who don’t spend much time playing with its features. At this point, my initial plan is to play further with blogdown and upload some content casually as I find time. As a former eager football blogs follower, I am aware of the fact that lifetime of blogs are short, and they tend to be forgotten.&lt;/p&gt;
+&lt;p&gt;If you are interested in this idea, I can list a couple of resources to get you started. Typically it assumes that you have some familiarity with R Studio and GitHub, but even if that’s not the case, it is easy to teach yourself using these resources and googling error codes you receive on R or GitHub. You may find this little bit time consuming (depending on error for sure), but it’s the best way to learn! The most exhaustive and comprehensive source is the book itself by creators of blogdown; “blogdown: Creating Websites with R Markdown” available at: &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; class=&#34;uri&#34;&gt;https://bookdown.org/yihui/blogdown/&lt;/a&gt; and the official Hugo guide available at: &lt;a href=&#34;https://gohugo.io/getting-started/&#34; class=&#34;uri&#34;&gt;https://gohugo.io/getting-started/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you don’t want to go through all the technicalities in this book, there are many useful posts from blogdown users regarding how to built one. They usually explain the process step by step. Here are some of them that I find useful, but know that there are so many others if any other information is needed.
+“Building a Blog with Blogdown and GitHub” by Tyler Clavelle available at: &lt;a href=&#34;https://www.tylerclavelle.com/code/2017/blogdown/&#34; class=&#34;uri&#34;&gt;https://www.tylerclavelle.com/code/2017/blogdown/&lt;/a&gt;
+“Start blogging in 5 minutes on Netlify with Hugo and blogdown” by dataatomic available at: &lt;a href=&#34;https://dataatomic.com/r/deploy-your-blog-in-5-minutes/&#34; class=&#34;uri&#34;&gt;https://dataatomic.com/r/deploy-your-blog-in-5-minutes/&lt;/a&gt;
+“How to make your own website for free in an under an hour” by Dan Quintana available at: &lt;a href=&#34;https://www.dsquintana.blog/free-website-in-r-easy/&#34; class=&#34;uri&#34;&gt;https://www.dsquintana.blog/free-website-in-r-easy/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There are basically two main options for hosting and deployment. It takes literally seconds using Netlify. All one has to do is drag and drop files. There are free and paid options available to users depending on expectations. Instead, I opted to use GitHub pages, which comes with multiple hosting methods. With some coding I find two branches method more convenient (and perhaps a more conventional way), but two repositories method also look like more straightforward to me. These are static site generators publish static files you push to your GitHub repository.&lt;/p&gt;
+&lt;p&gt;I think that’s long enough for the first post. If you have a question that I can be of any help, feel free to contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

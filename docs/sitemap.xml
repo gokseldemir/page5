@@ -18,12 +18,12 @@
   </url>
   
   <url>
-    <loc>/page5/</loc>
+    <loc>/page5/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/page5/talk/example/</loc>
+    <loc>/page5/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
@@ -33,12 +33,47 @@
   </url>
   
   <url>
-    <loc>/page5/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <loc>/page5/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2020-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/page5/post/writing-technical-content/</loc>
+    <loc>/page5/tag/blogdown/</loc>
+    <lastmod>2020-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page5/categories/</loc>
+    <lastmod>2020-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page5/tag/hugo/</loc>
+    <lastmod>2020-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page5/post/</loc>
+    <lastmod>2020-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page5/category/r/</loc>
+    <lastmod>2020-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page5/tag/r-markdown/</loc>
+    <lastmod>2020-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page5/tags/</loc>
+    <lastmod>2020-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page5/post/criminology-blogs/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -59,12 +94,12 @@
   
   <url>
     <loc>/page5/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/page5/author/goksel-demir/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -80,16 +115,6 @@
   <url>
     <loc>/page5/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/page5/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/page5/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -138,41 +163,6 @@
   </url>
   
   <url>
-    <loc>/page5/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/page5/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/page5/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/page5/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/page5/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/page5/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/page5/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/page5/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -185,31 +175,6 @@
   <url>
     <loc>/page5/author/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/page5/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/page5/tag/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/page5/category/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/page5/tag/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/page5/tag/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
