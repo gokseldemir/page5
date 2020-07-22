@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo | Home</title>
-    <link>/page/tag/hugo/</link>
-      <atom:link href="/page/tag/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <link>/page5/tag/hugo/</link>
+      <atom:link href="/page5/tag/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jul 2020 21:13:14 -0500</lastBuildDate>
     <image>
-      <url>/page/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/page5/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Hugo</title>
-      <link>/page/tag/hugo/</link>
+      <link>/page5/tag/hugo/</link>
     </image>
     
     <item>
       <title>About This Blog</title>
-      <link>/page/post/2015-07-23-r-rmarkdown/</link>
+      <link>/page5/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2020 21:13:14 -0500</pubDate>
-      <guid>/page/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/page5/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 
